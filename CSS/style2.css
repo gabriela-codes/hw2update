@@ -92,7 +92,15 @@ body {
         height: auto;
       }
       
-      div.desc {
+      div.desc1 {
+        padding: 15px;
+        text-align: center;
+      }
+div.desc2 {
+        padding: 15px;
+        text-align: center;
+      }
+      div.desc3 {
         padding: 15px;
         text-align: center;
       }
